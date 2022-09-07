@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlejandroChing11
 - 👀 I’m interested in programming and software as a service
-- 🌱 I’m currently learning python, git and github :)
+- 🌱 I’m currently learning python, Javascript, java and a lot of things.
 - 💞️ I’m looking to collaborate on whatever i can :)
 - 📫 How to reach me reach at github :)
 
